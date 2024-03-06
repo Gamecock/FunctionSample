@@ -5,6 +5,8 @@ VisualStudioVersion = 17.5.002.0
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TimerV16", "TimerV16\TimerV16.csproj", "{EE8C5882-24D6-4499-B52F-CBEF76E942DD}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QueueTrigger", "QueueTrigger\QueueTrigger.csproj", "{B816FB0E-BB49-4E05-8C05-CB74DD73288E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{EE8C5882-24D6-4499-B52F-CBEF76E942DD}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{EE8C5882-24D6-4499-B52F-CBEF76E942DD}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{EE8C5882-24D6-4499-B52F-CBEF76E942DD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B816FB0E-BB49-4E05-8C05-CB74DD73288E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B816FB0E-BB49-4E05-8C05-CB74DD73288E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B816FB0E-BB49-4E05-8C05-CB74DD73288E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B816FB0E-BB49-4E05-8C05-CB74DD73288E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
